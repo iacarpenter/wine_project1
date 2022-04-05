@@ -1,0 +1,31 @@
+
+##### Core scientific packages
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+
+##### Machine Learning packages
+scikit-learn
+
+##### TensorFlow-related packages
+
+tensorflow
+tensorboard
+
+##### Image manipulation
+Pillow
+graphviz
+pyglet
+scikit-image
+
+##### Additional utilities
+
+# Efficient jobs (caching, parallelism, persistence)
+joblib
+
+# May be useful with Pandas for complex "where" clauses (e.g., Pandas
+# tutorial).
+numexpr
+
