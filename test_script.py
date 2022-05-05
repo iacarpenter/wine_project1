@@ -31,7 +31,7 @@ wine = concat_dataframes(red_wine, white_wine)
 
 # print(wine["color"].value_counts())
 
-train, train_labels, test, test_lables = split_dataset(wine)
+train, train_labels, test, test_labels = split_dataset(wine)
 
 # print(train.info())
 # print(train.head())
